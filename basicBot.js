@@ -1663,7 +1663,7 @@
                 command: 'cookie',
                 rank: 'user',
                 type: 'startsWith',
-              cookies: ['has given you a grapefruit cookie made fresh from the membrane',
+              cookies: ['has given you a grapefruit cookie made fresh from the membrane, starlover13's favorite,
 
               
                 ],
