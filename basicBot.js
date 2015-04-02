@@ -178,7 +178,7 @@
     var botMaintainer = "Benzi (Quoona)"
     var botCreatorIDs = ["3851534", "4105209"];
 
-    var Reidon's Über awesome bot = {
+    var BasicBot = {
         version: "42",
         status: false,
         name: "Reidon's Über awesome bot",
@@ -191,7 +191,7 @@
         retrieveSettings: retrieveSettings,
         retrieveFromStorage: retrieveFromStorage,
         settings: {
-            botName: "basicBot",
+            botName: "Reidon's Über awesome bot",
             language: "english",
             chatLink: "https://rawgit.com/Yemasthui/basicBot/master/lang/en.json",
             startupCap: 1, // 1-200
