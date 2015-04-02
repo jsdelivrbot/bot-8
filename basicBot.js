@@ -179,7 +179,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot  = {
-        version: "42",
+        version: "Reidon's Über awesome bot modification",
         status: false,
         name: "Reidon's Über awesome bot",
         loggedInID: null,
