@@ -179,7 +179,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot  = {
-        version: "123",
+        version: "69",
         status: true,
         name: "Reidon's Über awesome bot",
         loggedInID: null,
@@ -1703,7 +1703,7 @@
                     'gives you a weinerbrød. That’s a Danish danish.',
                     'gives you 3.14 pies.',
                     'gives you a panda shaped cookie :panda_face:',
-                    'gives you a high five instead'
+                    'gives you a high five instead',
                     'bakes you a fresh chocolate chip cookie and awards you 10 points to Slytherin, you dirty dog.',
                     'gives you a Loris cookie. It reads “Search google.”',
                     'gives you a cool story cookie. It reads “the loris and the cheetah R.I.P.”',
