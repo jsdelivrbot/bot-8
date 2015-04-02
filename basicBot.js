@@ -178,7 +178,7 @@
     var botMaintainer = "Benzi (Quoona)"
     var botCreatorIDs = ["3851534", "4105209"];
 
-    var BasicBot = {
+    var basicBot  = {
         version: "42",
         status: false,
         name: "Reidon's Über awesome bot",
