@@ -1715,7 +1715,7 @@
                     'gives you a .gif cookie. It dances and reads “Fuck it I give up!”',
                     'gives you a talking gold cookie. It raps “ I got 99 problems but a cookie ain’t one”',
                     'gives you a Senor cookie. It reads “Don’t take him seriously”',
-                    'gives you a burnt cookie.  Sorry I don’t know how to bake.',
+                    'gives you a burnt cookie.  Sorry I don’t know how to bake.'
                     
                     
 
