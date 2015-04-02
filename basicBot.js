@@ -179,8 +179,8 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot  = {
-        version: "Über",
-        status: false,
+        version: "69",
+        status: true,
         name: "Reidon's Über awesome bot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
