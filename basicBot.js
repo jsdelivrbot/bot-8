@@ -1663,7 +1663,8 @@
                 command: 'cookie',
                 rank: 'user',
                 type: 'startsWith',
-                cookies: ['gives you a fortune cookie. It reads "m8 pls',
+              cookies: ['has given you a grapefruit cookie made fresh from the membrane',
+
               
                 ],
                 getCookie: function () {
