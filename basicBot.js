@@ -1716,10 +1716,6 @@
                     'gives you a talking gold cookie. It raps “ I got 99 problems but a cookie ain’t one”',
                     'gives you a Senor cookie. It reads “Don’t take him seriously”',
                     'gives you a burnt cookie.  Sorry I don’t know how to bake.'
-                    
-                    
-
-              
                 ],
                 getCookie: function () {
                     var c = Math.floor(Math.random() * this.cookies.length);
