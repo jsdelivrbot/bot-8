@@ -463,7 +463,7 @@
                 if (pos === null) return basicBot.chat.noposition;
                 var timeDc = Date.now() - dc;
                 var validDC = false;
-                if (basicBot.settings.maximumDc * 60 * 1000 > timeDc) {
+                if (basicBot.settings.maximumDc * 15 * 1000 > timeDc) {
                     validDC = true;
                 }
                 var time = basicBot.roomUtilities.msToStr(timeDc);
