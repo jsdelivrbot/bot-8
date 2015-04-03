@@ -181,7 +181,7 @@
     var basicBot  = {
         version: "69",
         status: true,
-        name: "Reidon's Über awesome bot",
+        name: "basicBot",
         loggedInID: null,
         scriptLink: "https://rawgit.com/Yemasthui/basicBot/master/basicBot.js",
         cmdLink: "http://git.io/245Ppg",
