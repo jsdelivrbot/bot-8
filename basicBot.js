@@ -1697,7 +1697,7 @@
                     'gives you a magical glowing cookie!  I wonder what it does?',
                     'gives you a fortune cookie. It reads “GET OUT OF JAIL, FREE. This card may be kept until needed or sold.”',
                     'gives you a fortune cookie. It reads “Don’t feed the trolls.”',
-                    'gives you a fortune cookie. It reads “Plug is <3. Plug is life.”',
+                    'gives you a fortune cookie. It reads “Plug is <3 Plug is life.”',
                     'gives you a fortune cookie. It reads “Make me a steak. Medium rare.”',
                     'gives you a fortune cookie. It reads “Lasagna is just spaghetti flavored cake.” ',
                     'gives you a weinerbrød. That’s a Danish danish.',
