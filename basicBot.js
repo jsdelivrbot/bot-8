@@ -234,7 +234,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "https://www.facebook.com/pages/Any-Genre-Room/739502156095439?sk=info&tab=page_info",
+            rulesLink: "https://www.test.com",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
