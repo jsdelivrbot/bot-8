@@ -1754,7 +1754,7 @@
                     'gives you a fortune cookie. It reads “Plug is <3 Plug is life.”',
                     'gives you a fortune cookie. It reads “Make me a steak. Medium rare.”',
                     'gives you a fortune cookie. It reads “Lasagna is just spaghetti flavored cake.” ',
-                    'gives you a weinerbrød. That’s a Danish danish.',
+                    'gives you a wienerbrød. That’s a Danish danish.',
                     'gives you 3.14 pies.',
                     'gives you a panda shaped cookie :panda_face:',
                     'gives you a high five instead',
