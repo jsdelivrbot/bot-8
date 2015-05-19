@@ -179,7 +179,7 @@
     var botCreatorIDs = ["3851534", "4105209"];
 
     var basicBot  = {
-        version: "ersion-Panda",
+        version: "69",
         status: true,
         name: "basicBot",
         loggedInID: null,
