@@ -269,7 +269,7 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "https://www.test.com",
+            rulesLink: "https://www.facebook.com/pages/Any-Genre-Room/739502156095439?sk=info&tab=page_info",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
