@@ -1964,7 +1964,10 @@
                     'gives you a Senor cookie. It reads “Don’t take him seriously”',
                     'gives you a burnt cookie.  Sorry I don’t know how to bake.'
                 ],
-           }
+                getCookie: function () {
+                    var c = Math.floor(Math.random() * this.cookies.length);
+                    return this.cookies[c];
+                },
                 functionality: function (chat, cmd) {
                     if (this.type === 'exact' && chat.message.length !== cmd.length) return void (0);
                     if (!basicBot.commands.executable(this.rank, chat)) return void (0);
