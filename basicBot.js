@@ -290,7 +290,7 @@
             afkpositionCheck: 15,
             afkRankCheck: "ambassador",
             motdEnabled: true,
-            motdInterval: 5,
+            motdInterval: 6,
             motd: "Come join us on The Unsigned Hour this Friday at 12:00pm PST! One hour of music from unsigned bands and artists' own music!",
             filterChat: true,
             etaRestriction: false,
