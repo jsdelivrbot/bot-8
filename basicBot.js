@@ -383,7 +383,7 @@
                         basicBot.userUtilities.moveUser(winner, pos, false);
                     }, 1 * 1000, winner, pos);
                 }
-            }*/
+            }
         },
         User: function (id, name) {
             this.id = id;
