@@ -358,7 +358,7 @@
 
             },
             newBlacklisted: [],
-            newBlacklistedSongFunction: null
+            newBlacklistedSongFunction: null,
             roulette: {
                 rouletteStatus: false,
                 participants: [],
