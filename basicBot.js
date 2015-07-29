@@ -359,8 +359,8 @@
             },
             newBlacklisted: [],
             newBlacklistedSongFunction: null
-            /*roulette: {
-                rouletteStatus: false,
+            roulette: {
+                rouletteStatus: true,
                 participants: [],
                 countdown: null,
                 startRoulette: function () {
