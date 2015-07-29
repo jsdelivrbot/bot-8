@@ -1201,7 +1201,7 @@
                         API.moderateDeleteChat(id);
                     }, 5 * 1000, chat.cid);
                     return true;
-                }*/
+                }
                 return false;
             },
             commandCheck: function (chat) {
@@ -2389,7 +2389,7 @@
                         }
                     }
                 }
-            },*/
+            },
 
             jointimeCommand: {
                 command: 'jointime',
@@ -2519,7 +2519,7 @@
                         }
                     }
                 }
-            },*/
+            },
 
             linkCommand: {
                 command: 'link',
@@ -3002,7 +3002,7 @@
                         }
                     }
                 }
-            },*/
+            },
 
             rulesCommand: {
                 command: 'rules',
